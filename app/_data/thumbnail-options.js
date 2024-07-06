@@ -1,21 +1,21 @@
 export const thumbnailOptions = [
   {
-    href: '/fabric',
+    href: '/work/amr',
     title: 'Arduino Mining Rig',
     image: '/project-3.jpg',
   },
   {
-    href: '/aanstekelijk',
+    href: '/work/lfr',
     title: 'Line Following Robot',
     image: '/project-2.jpg',
   },
   {
-    href: '/base-create',
+    href: '/work/apcb',
     title: 'Arduino-Powered Color Bot',
     image: '/project-4.jpg',
   },
   {
-    href: '/avvr',
+    href: '/work/shsc',
     title: 'Smart Home System Circuit',
     image: '/project-1.jpg',
   },
