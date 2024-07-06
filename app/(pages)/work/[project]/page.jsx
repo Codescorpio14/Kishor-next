@@ -1,7 +1,6 @@
-import { projects } from '@/app/_data/projectData';
-
 import Image from 'next/image';
 
+import { projects } from '@/app/_data/projectData';
 import { Transition } from '@/layout';
 
 const ProjectDetails = ({ params }) => {
